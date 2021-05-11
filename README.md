@@ -6,3 +6,5 @@ Abrir o arquivo index.cshtml.
 E apertar ctrl + F5 para recompilar e executar o projeto.
 
 Caso ocorra algum erro é só clicar com o botão direito no visual studio em cima da Solução 'Volvo_Teste' e escolher "clean soluction" ou "limpar solução", depois clicar com o botão direito no mesmo local e escolher a opção "Build Soluction" ou "Compilar Solução", aguarde o processo, e clique com o botão direito novamente no mesmo local e escolher a opção "Rebuild Soluction" ou "Recompilar Solução", execute o projeto.
+
+Quanto aos requisitos técnicos, acabei não fazendo tudo como o mencionado, por conta do tempo que tive, pois estou trabalhando até o dia 13 e estou fazendo curso também. Mas preferi entregar assim do que atrasar.
